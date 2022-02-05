@@ -14,6 +14,6 @@ In this project uses EDA for concluding **following points:**
 
 ### To run the script:
 ```
-git clone https://github.com/i11exx/statups_analysis.git
-cd startups_analysis
-jupyter-notebook startups.ipynb
+git clone https://github.com/i11exx/indian_statups_analysis.git
+cd indian_startups_analysis
+jupyter-notebook startups_analysis.ipynb
