@@ -4,6 +4,7 @@
 Version Python - from 3.6.х
 
 ## Functional:
+
 In this project uses EDA for concluding **following points:** 
 1. How does the funding ecosystem change with respect to time?
 2. What is the general amount that startups get in India?
