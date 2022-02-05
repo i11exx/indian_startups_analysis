@@ -14,6 +14,6 @@ In this project uses EDA for concluding **following points:**
 
 ### To run the script:
 ```
-git clone https://github.com/i11exx/fifa_analysis.git
-cd fifa_analysis
-jupyter-notebook fifa.ipynb
+git clone https://github.com/i11exx/indian_statups_analysis.git
+cd indian_startups_analysis
+jupyter-notebook startups_analysis.ipynb
