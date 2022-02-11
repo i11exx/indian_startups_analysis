@@ -10,7 +10,7 @@ In this project uses EDA for concluding **following points:**
 2. What is the general amount that startups get in India?
 3. What kind of industries is more preferred for startups?
 4. Does location also play a role, in determining the growth of a startup?
-5. Who plays the main role in Indian Startups ecosystem?
+5. Who plays the main role in indian startups ecosystem?
 6. What are the different types of funding for startups?
 
 ### To run the script:
